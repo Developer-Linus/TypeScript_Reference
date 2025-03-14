@@ -1,5 +1,3 @@
-Here’s the content formatted in Markdown for easier readability when uploaded to GitHub:
-
 ````markdown
 # Step-by-Step Guide to Variable Declaration in TypeScript
 
@@ -16,9 +14,6 @@ let username: string = "JohnDoe"; // A string type variable
 const age: number = 25; // A number type variable
 let isLoggedIn: boolean = true; // A boolean type variable
 ```
-````
-
----
 
 ## 2. Type Aliases
 
@@ -144,3 +139,4 @@ Type assertions are useful when **TypeScript cannot infer the type** but **you, 
 ```
 
 ```
+````
